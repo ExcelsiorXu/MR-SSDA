@@ -12,9 +12,9 @@ The code was tested on Ubuntu 18.04.5 under the environment below:
 * tensorflow 2.8.0
 
 ## Download Dataset
-Download ICIAR_2018 Dataset at https://digestpath2019.grand-challenge.org/Home/. 
-Download BreaKHis Dataset at https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/.
-Place it in the directory ./dataset by training set and test set.
+Download ICIAR_2018 Dataset at https://digestpath2019.grand-challenge.org/Home/.   
+Download BreaKHis Dataset at https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/.  
+Place it in the directory ./dataset by training set and test set.  
 The target domain training set should be divided into labeled and unlabeled parts.
 
 ### Train
